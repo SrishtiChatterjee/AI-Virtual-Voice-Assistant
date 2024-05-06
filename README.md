@@ -17,7 +17,17 @@ Follow these steps to set up and run voice assistant:
 
 Install Required Packages: Run the following command to install the required Python packages using pip.
 
-pip install pyttsx3 SpeechRecognition wikipedia beautifulsoup4 pywhatkit
+pip install pyttsx3
+pip install pyaudio
+pip install wikipedia
+pip install pywhatkit
+pip install pyautogui
+pip install SpeechRecognition
+pip3 install LooseVersion
+pip install django
+pip install opencv-python
+pip install disutils
+pip install setuptools
 
 
 Clone the Repository: Clone the repository containing the code using Git or download the code as a ZIP archive.
